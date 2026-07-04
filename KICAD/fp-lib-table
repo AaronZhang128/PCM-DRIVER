@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "flag") (type "KiCad") (uri "D:/KiCad/Project/PCM_Pulse_Gen/lib/CA flag/flag.pretty") (options "") (descr ""))
+)
